@@ -1,0 +1,10 @@
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\bin\Debug\Speech Recognition.exe.config
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\bin\Debug\Speech Recognition.exe
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\bin\Debug\Speech Recognition.pdb
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.csprojAssemblyReference.cache
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\obj\Debug\Speech_Recognition.Form1.resources
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\obj\Debug\Speech_Recognition.Properties.Resources.resources
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.csproj.GenerateResource.cache
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.csproj.CoreCompileInputs.cache
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.exe
+C:\Users\s134078\source\repos\Speech Recognition\Speech Recognition\obj\Debug\Speech Recognition.pdb
